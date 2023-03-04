@@ -1,3 +1,3 @@
 # lap-trinh-cplusplus
-homework and project
+homeworks and projects
 🍕 🐱
