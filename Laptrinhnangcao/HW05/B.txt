@@ -1,0 +1,60 @@
+1.
+majority(bool a, bool b, bool c) {
+if (a == 1) {if (b == 1 || c == 1) {return true;}
+	else {return false;}
+}
+else {
+	if (b != 1 || c != 1) {return false;}
+	else {return true;}
+}
+}
+
+2.
+eq(int a[], int b[], int n) {
+	for (int i = 0; i < n; ++i) {
+		if (a[i] != b[i]) {return false;}	}
+return true;
+}
+
+3.
+1000 l?n.
+
+4.
+17
+
+5.
+int min(int a, int b, int c, int d) {
+   int min = a;
+   if (b < min) min = b;
+   if (c < min) min = c;
+   if (d < min) min = d;
+   return min;
+}
+
+6.
+Loi nhap nhang
+
+7.D
+8.A
+9.D
+10.B
+11.C
+12.B
+13.D
+14.D
+15.B
+16.B
+17.A
+18.B
+19.B
+20.C
+21.B
+22.D
+23.A
+24.B
+25.D
+26.D
+
+
+
+
